@@ -51,4 +51,3 @@ Task: [Add link to task]
 - [ ] Self-review completed
 - [ ] Tests added/updated where necessary
 - [ ] No sensitive information included
-- [ ] CI passes
